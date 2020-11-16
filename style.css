@@ -1,0 +1,11 @@
+body {
+    background-image: url('/Assets/Images/BrickBackground.jpg');
+}
+
+.cardbody {
+    background-color: white;
+}
+
+.cardtext {
+    color: black;
+}
