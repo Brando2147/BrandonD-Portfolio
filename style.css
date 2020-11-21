@@ -1,5 +1,12 @@
+
+/* Main */
+
 body {
     background-image: url('/Assets/Images/BrickBackground.jpg');
+}
+
+html, body {
+  height: 100%;
 }
 
 .cardbody {
@@ -9,4 +16,38 @@ body {
 .cardtext {
     color: black;
 }
- 
+
+img {
+     max-width: 100%;
+ }
+
+p {
+    margin: 10px;
+}
+
+/* Footer */
+
+.fa {  
+    width: 50px;
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    color: white;
+    border-radius: 50%; 
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+.fa-linkedin {
+  background: #007bb5;
+}
+
+.fa-github {
+  background: #000000;
+}
+
+  
