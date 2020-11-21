@@ -2,7 +2,7 @@
 /* Main */
 
 body {
-    background-image: url('./Assets/Images/BrickBackground.jpg');
+    background-image: url('/Images/BrickBackground.jpg');
 }
 
 html, body {
