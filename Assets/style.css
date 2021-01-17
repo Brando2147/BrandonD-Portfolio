@@ -11,20 +11,31 @@ html, body {
 
 .cardbody {
     background-color: white;
+    min-width: 250px;
 }
 
 .cardtext {
     color: black;
 }
 
+
+.card {
+  min-width: 500px;
+}
+
 img {
-     max-width: 100%;
+  max-width: 100% ;
+  height: auto;     
  }
 
 p {
     margin: 10px;
 }
 
+a {
+  margin: 10px;
+
+}
 /* Footer */
 
 .fa {  
