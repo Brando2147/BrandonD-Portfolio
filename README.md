@@ -19,5 +19,5 @@ The contact page is currently just a placeholder, as I progress through the full
 
 This site is hosted via github. Bootstrap 4 was utilized to build this mobile responsive website. 
 
-[Github] (https://github.com/Brando2147/01-code-refactor) 
-[Repo] (https://brando2147.github.io/01-code-refactor)
+[Github] (https://brando2147.github.io/BrandonD-Portfolio/) 
+[Repo] (https://github.com/Brando2147/BrandonD-Portfolio/)
